@@ -1,0 +1,12 @@
+---
+layout: page
+title: VxLTE Setup
+description: Step-By-Step instruction to setup VxLTE with Kamailio IMS, Open5GS core and SRS RAN 
+img: assets/img/volte.jpg
+importance: 1
+category: work
+---
+
+I rolled up my sleeves to give a user-friendly makeover to a detailed VxLTE setup tutorial. You can find the original guide right [here](https://open5gs.org/open5gs/docs/tutorial/02-VoLTE-setup/) . By blending [srsRAN_4G](https://github.com/srsran/srsRAN_4G), [Open5GS](https://github.com/open5gs/open5gs), and [Kamailio](https://github.com/kamailio/kamailio) – all cool open-source tools – I cooked up a guide that unravels complex stuff, serving it in a beginner-friendly package. This revamped resource isn't just about breaking barriers; it's an open invitation for newcomers to dive headfirst into the VxLTE universe.
+
+Comprehensive step-by-step guidance can be found right [here](https://ryantheelder.github.io/blog/2023/VoLTE/) on my blog. You can locate all the necessary materials for the tutorial within [this repository](https://github.com/ryantheelder/open5gs_kamailio).

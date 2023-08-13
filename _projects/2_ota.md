@@ -1,0 +1,14 @@
+---
+layout: page
+title: OTA SMS
+description: Installing and Deleting an Applet via OTA SMS 
+img: assets/img/ota.png
+importance: 1
+category: work
+---
+
+I've developed a comprehensive guide demonstrating how to utilize Over-the-Air (OTA) SMS to install and uninstall applets on mobile devices. The guide covers the process of applet installation and deletion, explains the functionality of applets, and provides insights into the workings of OTA SMS technology.
+
+To bring this project to life, I've leveraged the capabilities of [Open5GS](https://github.com/open5gs/open5gs), [srsRAN_4G](https://github.com/srsran/srsRAN_4G), and [Osmocom](osmocom.org/) projects, showcasing their integration and synergy in realizing this endeavor.
+
+Comprehensive step-by-step guidance can be found right [here](https://ryantheelder.github.io/blog/2023/OTA/) on my blog. You can locate all the necessary materials for the tutorial within [this repository](https://github.com/ryantheelder/OTAapplet).

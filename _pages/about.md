@@ -1,13 +1,14 @@
 ---
 layout: about
-title: Who's Ryan?
+title: About
 permalink: /
-subtitle: <a href='#'>Telecommunications Security Reasercher</a>. 
+subtitle: Telecommunications Security Reasercher
 
 profile:
   align: right
-  image: prof_me.jpg
-  image_circular: true # crops the image to make it circular
+  image: prof.jpg
+  image_circular:  true # crops the image to make it circular
+  
   # address: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -16,16 +17,63 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 Hey there,
 
-I'm Ryan, currently pursuing my master's degree in telecommunications at Tarbiat Modares University [(TMU)](https://en.modares.ac.ir/). I'm fortunate to have [Dr. Mokari](https://scholar.google.com/citations?user=lrApNV8AAAAJ&hl=en) as my guiding mentor.
+I'm Ryan Abdi, currently pursuing my master's degree in telecommunications at Tarbiat Modares University [(TMU)](https://en.modares.ac.ir/). I'm fortunate to have [Dr. Mokari](https://scholar.google.com/citations?user=lrApNV8AAAAJ&hl=en) as my guiding mentor.
 
 I'm all about Telecommunications Security. I explore ways to enhance network security, drawing from a background in air interface. I'm fascinated by technology's role in countering emerging threats, especially through Software Defined Radio (SDR) and Artificial Intelligence (AI) for wireless network security analysis.
 
 Eager to learn and innovate, I'm excited about opportunities in the telecommunications security realm.
 
+<div class="row" >
+    <div class="col-md-5">
+      <li class="nav-header disabled font-weight-bold list-unstyled"><h4><strong> Research Interests</strong></h4></li>
+      <ul class="list-group">
+        <li class="list-group-item border-0"><i class="fa-solid fa-tower-cell"></i>  Wireless Security  </li>
+        <li class="list-group-item border-0"><i class="fa-solid fa-tower-cell"></i>  Telecommunications Security</li>
+      </ul> 
+    </div>  
+    <div class="col">
+      <li class="nav-header disabled font-weight-bold list-unstyled"><h4><strong> Education </strong></h4></li>
+      <ul class="list-group">
+        <li class="list-group-item border-0"><i class="fali fas fa-graduation-cap"></i>  M.Sc. in Telecommunications, 2022 - Present  <p class="text-muted mb-0">Tarbiat Modares University</p> </li>
+        <li class="list-group-item border-0"><i class="fali fas fa-graduation-cap"></i>  B.Sc. in Electrical Engineering <p class="text-muted mb-0">Amirkabir University of Technology</p> </li>
+      </ul>     </div>
+    
+    <!-- <div class="col-md-7">
+        <div class="section-subheading">Education</div>
+        <ul class="ul-edu fa-ul mb-0">
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">Ph.D. in Cybersecurity, 2022 - Present</p>
+              <p class="institution">Northeastern University</p>
+            </div>
+          </li>
+          
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">PG.Cert in Advanced Cybersecurity, 2021 - 2022</p>
+              <p class="institution">King's College London</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">B.Sc. in Computer Science, 2013 - 2018</p>
+              <p class="institution">Athens University of Economics and Business</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+</div> -->
 
 
 
