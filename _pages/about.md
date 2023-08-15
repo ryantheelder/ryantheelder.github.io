@@ -27,8 +27,8 @@ I'm all about Telecommunications Security. I explore ways to enhance network sec
 
 Eager to learn and innovate, I'm excited about opportunities in the telecommunications security realm.
 
-<div class="row" >
-    <div class="col-md-5">
+<!-- <div class="row" data-bs-theme="dark">
+    <div class="col-md-5" data-bs-theme="dark">
       <li class="nav-header disabled font-weight-bold list-unstyled"><h4><strong> Research Interests</strong></h4></li>
       <ul class="list-group">
         <li class="list-group-item border-0"><i class="fa-solid fa-tower-cell"></i>  Wireless Security  </li>
@@ -40,40 +40,39 @@ Eager to learn and innovate, I'm excited about opportunities in the telecommunic
       <ul class="list-group">
         <li class="list-group-item border-0"><i class="fali fas fa-graduation-cap"></i>  M.Sc. in Telecommunications, 2022 - Present  <p class="text-muted mb-0">Tarbiat Modares University</p> </li>
         <li class="list-group-item border-0"><i class="fali fas fa-graduation-cap"></i>  B.Sc. in Electrical Engineering <p class="text-muted mb-0">Amirkabir University of Technology</p> </li>
-      </ul>     </div>
+      </ul>     </div> -->
     
-    <!-- <div class="col-md-7">
-        <div class="section-subheading">Education</div>
-        <ul class="ul-edu fa-ul mb-0">
-          
+<div class="row">
+      <div class="col-md-5">
+        <div class="section-subheading">Areas of Focus</div>
+        <ul class="ul-interests mb-0 list-unstyled">
           <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">Ph.D. in Cybersecurity, 2022 - Present</p>
-              <p class="institution">Northeastern University</p>
-            </div>
+          <i class="fa-solid fa-tower-cell"></i>  
+          Wireless and Mobile Security
           </li>
-          
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">PG.Cert in Advanced Cybersecurity, 2021 - 2022</p>
-              <p class="institution">King's College London</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">B.Sc. in Computer Science, 2013 - 2018</p>
-              <p class="institution">Athens University of Economics and Business</p>
-            </div>
-          </li>
-          
+          <li><i class="fa-solid fa-tower-cell"></i> Machine Learning Applications in Telecommunications Security</li> 
         </ul>
       </div>
-</div> -->
+      <div class="col-md-7">
+        <div class="section-subheading">Education</div>
+        <ul class="ul-edu fa-ul mb-0"> 
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">M.Sc. in Telecommunications, 2022 - Present</p>
+              <p class="institution">Tarbiat Modares University</p>
+            </div>
+          </li>
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">B.Sc. in Electrical Engineering</p>
+              <p class="institution">Amirkabir University of Technology</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
 
 
 

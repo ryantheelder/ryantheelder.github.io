@@ -1035,3 +1035,55 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+
+
+
+
+
+
+.section-subheading {
+  font-size: 1.25rem;
+  font-family: montserrat,sans-serif;
+  font-weight: 700;
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+}
+
+ul.ul-interests li {
+  font-size: .95rem;
+}
+
+ul.ul-edu li .description p.course {
+  font-size: .9rem;
+}
+
+.description p {
+  margin: 0;
+}
+
+.description p.institution {
+  font-size: .75rem;
+  // color: rgba(2, 1, 1, 0.815);
+  color: var(--global-text-color);
+}
+
+
+
+ul.ul-edu {
+  list-style: none;
+}
+
+ul.ul-edu li {
+  position: relative;
+  padding: 0 15px 4px 3px;
+}
+
+.fa-solid, .fas {
+  font-family: "font awesome 6 free";
+  font-weight: 900;
+}
+
+ul.ul-edu {
+  list-style: none;
+}
