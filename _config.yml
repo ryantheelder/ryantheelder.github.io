@@ -7,8 +7,8 @@ first_name: Ryan
 middle_name: 
 last_name: Abdi
 email: rayan.abdi00@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Diving deep into the realm of telecommunications security
+description: Diving deep into the realm of telecommunications security  # the ">" symbol means to ignore newlines until "footer_text:"
+  
 footer_text: >
 #  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
